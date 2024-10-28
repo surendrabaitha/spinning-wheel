@@ -35,11 +35,20 @@ body {
 
 .container .outRing{
     position: absolute;
-    width: 435px;
-    height: 435px;
-    left: -61px;
-    top: -30px;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: -48px;
+    top: -17px;
+    transform: scale(1.1);
 }
+
+
+.ring{
+    position: absolute;
+    top: 55px;
+}
+
 
 .container .spinBtn {
     position: absolute;
